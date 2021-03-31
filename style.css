@@ -1,3 +1,33 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
 header{
-    background-image: url(./JugendForscht-CoLoS.github.io/imgs/app_icon.png);
+    padding:400px;
+    height: 100%;
+    width: inherit;
+    background-image: url(../JugendForscht-CoLoS.github.io/imgs/bild_fern2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-bottom: 2cm;
+}
+#head{
+    position:relative;
+    right:25%;
+    bottom:200px;
+    font-size: 300%;
+    background-color: cornflowerblue, 0.1;
+}
+
+footer{
+    background-color: darkblue;
+    color: darkgray;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+#imgs{
+    background-color: black;
+    padding:0px;
 }
